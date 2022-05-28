@@ -1,4 +1,4 @@
-<h1 align="center">🏆 PlayStation Home Rewards for Destination Home Online 🏆</h1>  
+<h1 align="center">🏆 PlayStation Home Rewards Database 🏆</h1>  
 
 ![PlayStationÂ®Home_3](https://user-images.githubusercontent.com/67494727/170836541-94ee2396-cfd6-4017-88b3-135eef2488aa.png)
 
