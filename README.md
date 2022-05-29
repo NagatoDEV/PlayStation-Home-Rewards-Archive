@@ -6,7 +6,7 @@ This resource will document all PlayStation Home rewards that can be earned on [
 
 <table class="center">
   <tr>
-   <td align="center"><a href="https://twitter.com/NagatoRevenge/"><img src="https://user-images.githubusercontent.com/67494727/170834617-dd5cb4e7-f074-412e-968a-dd135692fb3b.png" width="120px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Home Rewards</b></sub></a><br /></a> 
+   <td align="center"><a href="https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/Home-Rewards"><img src="https://user-images.githubusercontent.com/67494727/170834617-dd5cb4e7-f074-412e-968a-dd135692fb3b.png" width="120px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Home Rewards</b></sub></a><br /></a> 
 </td>
    <td align="center"><a href="https://twitter.com/NagatoRevenge/"><img src="https://user-images.githubusercontent.com/67494727/170836582-cc0f61ec-f5fe-4ae6-86b4-a1314d96881d.png" width="120px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Home Challenges</b></sub></a><br /></a></td>
   <td align="center"><a href="https://twitter.com/NagatoRevenge/"><img src="https://user-images.githubusercontent.com/67494727/170836693-c60332d4-9aab-4c9d-ac17-2ba0f2ac3e7f.png" width="110px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Personal Spaces</b></sub></a><br /></a></td>
