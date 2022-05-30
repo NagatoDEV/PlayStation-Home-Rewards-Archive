@@ -33,3 +33,17 @@ This resource will document all PlayStation Home rewards that can be earned on [
   <td align="center"><a href="https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/Active-Rewards"><img src="https://user-images.githubusercontent.com/67494727/170837370-439e50b8-c170-4632-bf13-ee0b5f0b6244.png" width="110px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Active Rewards</b></sub></a><br /></a></td>
       <td align="center"><a href="https://twitter.com/NagatoRevenge"><img src="https://user-images.githubusercontent.com/67494727/167346455-b7178b5f-a36b-4875-8325-1a8c5030f409.png" width="110px;" alt="https://github.com/NagatoDEV/NagatoDEV"/><br /><sub><b>Nagato</b></sub></a><br /></a></td>
 </table>
+
+## Changelog History:
+
+* 5/30/2021
+
+     * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
+    
+        * Sonic Adventure 2
+        * Top Spin 4
+        * MAG
+        * Crazy Taxi
+        * Darksiders
+        * DC Universe Online
+
