@@ -48,4 +48,6 @@ This resource will document all PlayStation Home rewards that can be earned on [
         * DC Universe Online
         * SingStar
         * Sonic Adventure
+        * Buzz Quiz World
+        * Castlevania - Lords of Shadow
 
