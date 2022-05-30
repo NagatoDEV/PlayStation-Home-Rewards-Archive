@@ -46,4 +46,5 @@ This resource will document all PlayStation Home rewards that can be earned on [
         * Crazy Taxi
         * Darksiders
         * DC Universe Online
+        * SingStar
 
