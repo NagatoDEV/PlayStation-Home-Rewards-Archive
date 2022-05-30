@@ -47,4 +47,5 @@ This resource will document all PlayStation Home rewards that can be earned on [
         * Darksiders
         * DC Universe Online
         * SingStar
+        * Sonic Adventure
 
