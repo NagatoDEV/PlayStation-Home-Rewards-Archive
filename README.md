@@ -50,4 +50,5 @@ This resource will document all PlayStation Home rewards that can be earned on [
         * Sonic Adventure
         * Buzz Quiz World
         * Castlevania - Lords of Shadow
+        * Tomb Raider Trilogy
 
