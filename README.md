@@ -36,15 +36,16 @@ This resource will document all PlayStation Home rewards that can be earned on [
 
 ## Changelog History:
 
-* 5/31/2021
+<h1 align="center">5/31/2022:</h1>
+
 * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
     
         * Tekken 6
         * Tekken Hybrid Limited Edition
 
-* 5/30/2021
+<h1 align="center">5/30/2022:</h1> 
 
-     * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
+* Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
     
       * Sonic Adventure 2
       * Top Spin 4
