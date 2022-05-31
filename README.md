@@ -44,6 +44,7 @@ This resource will document all PlayStation Home rewards that can be earned on [
         * Tekken Hybrid Limited Edition
         * The House of the Dead 3
         * The House of the Dead 4
+        * Dragons Lair Arcade Machine
 
 <h1 align="center">5/30/2022:</h1> 
 
