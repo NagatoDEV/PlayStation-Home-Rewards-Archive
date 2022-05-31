@@ -42,6 +42,8 @@ This resource will document all PlayStation Home rewards that can be earned on [
     
         * Tekken 6
         * Tekken Hybrid Limited Edition
+        * The House of the Dead 3
+        * The House of the Dead 4
 
 <h1 align="center">5/30/2022:</h1> 
 
