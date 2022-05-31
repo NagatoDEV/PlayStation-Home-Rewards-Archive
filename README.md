@@ -46,15 +46,14 @@ This resource will document all PlayStation Home rewards that can be earned on [
 
      * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
     
-        * Sonic Adventure 2
-        * Top Spin 4
-        * MAG
-        * Crazy Taxi
-        * Darksiders
-        * DC Universe Online
-        * SingStar
-        * Sonic Adventure
-        * Buzz Quiz World
-        * Castlevania - Lords of Shadow
-        * Tomb Raider Trilogy
-
+      * Sonic Adventure 2
+      * Top Spin 4
+      * MAG
+      * Crazy Taxi
+      * Darksiders
+      * DC Universe Online
+      * SingStar
+      * Sonic Adventure
+      * Buzz Quiz World
+      * Castlevania - Lords of Shadow
+      * Tomb Raider Trilogy
