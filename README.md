@@ -41,7 +41,7 @@ This resource will document all PlayStation Home rewards that can be earned on [
 * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
     
         * Magic The Gathering
-        * 
+        * MegaMan 10
 
 <h1 align="center">5/31/2022:</h1>
 
