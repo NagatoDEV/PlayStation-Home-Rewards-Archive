@@ -42,6 +42,8 @@ This resource will document all PlayStation Home rewards that can be earned on [
     
         * Magic The Gathering
         * MegaMan 10
+        * ibb & obb
+        * Space Channel 5 Part 2
 
 <h1 align="center">5/31/2022:</h1>
 
