@@ -36,6 +36,12 @@ This resource will document all PlayStation Home rewards that can be earned on [
 
 ## Changelog History:
 
+<h1 align="center">6/5/2022:</h1>
+
+* Added **one** [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
+    
+        * White Knight Chronicles
+
 <h1 align="center">6/1/2022:</h1>
 
 * Added various [PS3 titles](https://github.com/NagatoDEV/PlayStation-Home-Rewards-Archive/wiki/PS3-Games) to the reward database: 
